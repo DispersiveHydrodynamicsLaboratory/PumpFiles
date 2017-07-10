@@ -1,0 +1,4 @@
+hello
+print ver
+slew 4.1667
+slew 50

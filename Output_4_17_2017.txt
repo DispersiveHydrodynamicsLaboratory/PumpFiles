@@ -1,0 +1,9 @@
+hello
+print ver
+slew 4.1667
+slew 83.3333
+hello
+print ver
+slew 4.1667
+sstp
+ sstp

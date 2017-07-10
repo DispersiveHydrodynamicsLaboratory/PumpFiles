@@ -1,0 +1,77 @@
+slew 50
+sstp
+hello
+print ver
+slew 4.1667
+slew 50
+slew 4.1667
+slew 16.6667
+slew 4.1667
+slew 12.5
+slew 16.6667
+sstp
+slew 16.6667
+pgm 1
+lbl dispense
+ACCL=1000
+DECL=1000
+VM=4.1667
+MOVR 10000
+HOLD 2
+sstp
+ACCL=1000
+DECL=1000
+end
+pgm
+dispense
+slew 16.6667
+pgm 1
+lbl dispense
+ACCL=1000
+DECL=1000
+VM=4.1667
+MOVR 10000
+HOLD 2
+sstp
+ACCL=1000
+DECL=1000
+end
+pgm
+dispense
+sstp
+pgm 1
+lbl dispense
+ACCL=1000
+DECL=1000
+VM=4.1667
+MOVR 10000
+HOLD 2
+sstp
+ACCL=1000
+DECL=1000
+end
+pgm
+dispense
+sstp
+slew 4.1667
+slew 4.1667
+slew 4.1667
+sstp
+slew 8.3333
+sstp
+slew 16.6667
+sstp
+slew 16.6667
+sstp
+slew 83.3333
+sstp
+slew 83.3333
+sstp
+slew 166.6667
+sstp
+slew 166.6667
+sstp
+slew 166.6667
+sstp
+slew 166.6667
+sstp

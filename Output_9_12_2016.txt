@@ -1,0 +1,24 @@
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+slew 50
+slew 166.6667
+slew 333.3333
+slew 166.6667
+slew 83.3333
+slew 16.6667
+sstp
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+sstp
+sstp

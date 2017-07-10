@@ -1,0 +1,6 @@
+hello
+print ver
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667

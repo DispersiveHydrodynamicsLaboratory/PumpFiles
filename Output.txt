@@ -1,0 +1,10 @@
+Below data is from: 2016     4     1    12     6    12
+Below data is from: 2016     4     1    12     9    27
+Below data is from: 2016     4     1    12     9    43
+Below data is from: 2016     4     1    12    29    12
+Below data is from: 2016     4     1    12    29    57
+Below data is from: 2016     4     1    12    31    27
+Below data is from: 2016     4     1    12    32     7
+Below data is from: 2016     4     1    12    32    36
+Below data is from: 2016     4     1    12    35    19
+Below data is from: 2016    11     2    12     9    14

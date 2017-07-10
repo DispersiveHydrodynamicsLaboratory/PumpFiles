@@ -1,0 +1,21 @@
+hello
+print ver
+slew 4.1667
+slew 50
+DECL = 50
+ACCL = 1000
+slew 16.6667
+sstp
+slew 50
+DECL = 50
+ACCL = 1000
+slew 166.6667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 50
+DECL = 50
+ACCL = 1000
+slew 4.1667

@@ -1,0 +1,53 @@
+hello
+print ver
+slew 4.1667
+slew 50
+slew 166.6667
+slew 50
+slew 
+ACCL=1000
+DECL=1000
+sstp
+DECL = 50
+hello
+print ver
+slew 4.1667
+slew 50
+hello
+print ver
+slew 4.1667
+slew 50
+slew 166.6667
+sstp
+sstp
+hello
+print ver
+slew 4.1667
+hello
+print ver
+slew 4.1667
+slew 166.6667
+slew 50
+sstp
+hello
+print ver
+slew 4.1667
+slew 166.6667
+slew 50
+sstp
+hello
+print ver
+slew 4.1667
+slew 166.6667
+slew 50
+hello
+print ver
+slew 4.1667
+slew 50
+slew 166.6667
+slew 50
+slew 100
+slew 150
+slew 41.6667
+sstp
+sstp

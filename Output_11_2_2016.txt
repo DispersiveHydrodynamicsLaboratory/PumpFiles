@@ -1,0 +1,2 @@
+print ver 
+slew 50 

@@ -1,0 +1,1976 @@
+hello
+print ver
+slew 4.1667
+slew 166.6667
+slew 50
+hello
+print ver
+slew 4.1667
+sstp
+sstp
+hello
+print ver
+slew 4.1667
+slew 50
+hello
+print ver
+slew 4.1667
+slew 166.6667
+hello
+print ver
+slew 4.1667
+slew 166.6667
+slew 333.3333
+slew 500
+slew 166.6667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+slew 166.6667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+slew 1.6667
+slew 1.6667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+slew 8.3333
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 0.83333
+DECL = 50
+ACCL = 1000
+slew 7.5
+DECL = 50
+ACCL = 1000
+slew 0.83333
+DECL = 50
+ACCL = 1000
+slew 7.5
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+pgm 1
+lbl progname
+accl=1000.000000
+accl=1.493293
+slew 0.298659
+HOLD 1
+accl=2.202255
+slew 0.739110
+HOLD 1
+accl=3.259312
+slew 1.390972
+HOLD 1
+accl=4.844679
+slew 2.359908
+HOLD 1
+accl=7.235857
+slew 3.807079
+HOLD 1
+accl=10.854844
+slew 5.978048
+HOLD 1
+accl=16.320801
+slew 9.242208
+HOLD 1
+accl=24.474964
+slew 14.137201
+HOLD 1
+accl=36.293939
+slew 21.395989
+HOLD 1
+accl=52.542731
+slew 31.904535
+HOLD 1
+accl=73.011589
+slew 46.506853
+HOLD 1
+accl=95.379426
+slew 65.582738
+HOLD 1
+accl=114.263089
+slew 88.435356
+HOLD 1
+accl=121.565567
+slew 112.748469
+HOLD 1
+accl=109.247865
+slew 134.598042
+HOLD 1
+accl=73.858876
+slew 149.369817
+HOLD 1
+accl=20.316822
+slew 153.433182
+HOLD 1
+decl=38.547836
+slew 145.723614
+HOLD 1
+decl=87.434716
+slew 128.236671
+HOLD 1
+decl=115.618672
+slew 105.112937
+HOLD 1
+decl=121.039451
+slew 80.905047
+HOLD 1
+decl=109.125595
+slew 59.079928
+HOLD 1
+decl=88.361263
+slew 41.407675
+HOLD 1
+decl=66.167458
+slew 28.174184
+HOLD 1
+decl=46.906958
+slew 18.792792
+HOLD 1
+decl=32.102957
+slew 12.372201
+HOLD 1
+decl=21.546671
+slew 8.062866
+HOLD 1
+decl=14.345631
+slew 5.193740
+HOLD 1
+decl=9.544423
+slew 3.284856
+HOLD 1
+decl=6.370358
+slew 2.010784
+HOLD 1
+decl=4.271727
+slew 1.156439
+HOLD 1
+decl=2.878007
+slew 0.580837
+HOLD 1
+decl=1.946968
+slew 0.191444
+HOLD 1
+slew 0.191444
+slew 0.19144
+end
+pgm
+pgm 1
+lbl progname
+accl=1000.000000
+accl=1.257563
+slew 9.162794
+HOLD 1
+accl=1.508451
+slew 9.313639
+HOLD 1
+accl=1.810407
+slew 9.494680
+HOLD 1
+accl=2.174184
+slew 9.712098
+HOLD 1
+accl=2.612900
+slew 9.973388
+HOLD 1
+accl=3.142565
+slew 10.287645
+HOLD 1
+accl=3.782742
+slew 10.665919
+HOLD 1
+accl=4.557282
+slew 11.121647
+HOLD 1
+accl=5.495212
+slew 11.671168
+HOLD 1
+accl=6.631680
+slew 12.334336
+HOLD 1
+accl=8.008986
+slew 13.135235
+HOLD 1
+accl=9.677451
+slew 14.102980
+HOLD 1
+accl=11.696073
+slew 15.272587
+HOLD 1
+accl=14.132550
+slew 16.685842
+HOLD 1
+accl=17.062252
+slew 18.392068
+HOLD 1
+accl=20.565514
+slew 20.448619
+HOLD 1
+accl=24.722472
+slew 22.920866
+HOLD 1
+accl=29.604587
+slew 25.881325
+HOLD 1
+accl=35.262092
+slew 29.407534
+HOLD 1
+accl=41.706924
+slew 33.578227
+HOLD 1
+accl=48.891432
+slew 38.467370
+HOLD 1
+accl=56.684305
+slew 44.135800
+HOLD 1
+accl=64.846684
+slew 50.620469
+HOLD 1
+accl=73.013172
+slew 57.921786
+HOLD 1
+accl=80.693264
+slew 65.991112
+HOLD 1
+accl=87.231140
+slew 74.714226
+HOLD 1
+accl=91.944548
+slew 83.908681
+HOLD 1
+accl=94.072753
+slew 93.315956
+HOLD 1
+accl=92.918258
+slew 102.607782
+HOLD 1
+accl=87.933972
+slew 111.401179
+HOLD 1
+accl=78.823698
+slew 119.283549
+HOLD 1
+accl=65.625091
+slew 125.846058
+HOLD 1
+accl=48.756577
+slew 130.721716
+HOLD 1
+accl=29.008638
+slew 133.622580
+HOLD 1
+accl=7.491328
+slew 134.371713
+HOLD 1
+decl=14.491165
+slew 132.922596
+HOLD 1
+decl=35.575859
+slew 129.365010
+HOLD 1
+decl=54.512873
+slew 123.913723
+HOLD 1
+decl=70.274844
+slew 116.886239
+HOLD 1
+decl=82.192306
+slew 108.667008
+HOLD 1
+decl=89.969325
+slew 99.670076
+HOLD 1
+decl=93.682201
+slew 90.301855
+HOLD 1
+decl=93.717668
+slew 80.930089
+HOLD 1
+decl=90.682155
+slew 71.861873
+HOLD 1
+decl=85.299809
+slew 63.331892
+HOLD 1
+decl=78.329817
+slew 55.498911
+HOLD 1
+decl=70.427794
+slew 48.456131
+HOLD 1
+decl=62.214671
+slew 42.234664
+HOLD 1
+decl=54.137105
+slew 36.820953
+HOLD 1
+decl=46.518480
+slew 32.169105
+HOLD 1
+decl=39.560833
+slew 28.213022
+HOLD 1
+decl=33.366026
+slew 24.876420
+HOLD 1
+decl=27.960115
+slew 22.080408
+HOLD 1
+decl=23.316780
+slew 19.748730
+HOLD 1
+decl=19.377359
+slew 17.810994
+HOLD 1
+decl=16.066459
+slew 16.204348
+HOLD 1
+decl=13.303134
+slew 14.874035
+HOLD 1
+decl=11.008209
+slew 13.773214
+HOLD 1
+decl=9.108569
+slew 12.862357
+HOLD 1
+decl=7.539250
+slew 12.108432
+HOLD 1
+decl=6.244070
+slew 11.484025
+HOLD 1
+decl=5.175356
+slew 10.966489
+HOLD 1
+decl=4.293213
+slew 10.537168
+HOLD 1
+decl=3.564551
+slew 10.180713
+HOLD 1
+decl=2.962102
+slew 9.884503
+HOLD 1
+decl=2.463479
+slew 9.638155
+HOLD 1
+decl=2.050329
+slew 9.433122
+HOLD 1
+decl=1.707635
+slew 9.262359
+HOLD 1
+decl=1.423086
+slew 9.120050
+HOLD 1
+slew 9.120050
+slew 9.1201
+end
+pgm
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+pgm 1
+lbl progname
+accl=1000.000000
+accl=1.493293
+slew 0.298659
+HOLD 1
+accl=2.202255
+slew 0.739110
+HOLD 1
+accl=3.259312
+slew 1.390972
+HOLD 1
+accl=4.844679
+slew 2.359908
+HOLD 1
+accl=7.235857
+slew 3.807079
+HOLD 1
+accl=10.854844
+slew 5.978048
+HOLD 1
+accl=16.320801
+slew 9.242208
+HOLD 1
+accl=24.474964
+slew 14.137201
+HOLD 1
+accl=36.293939
+slew 21.395989
+HOLD 1
+accl=52.542731
+slew 31.904535
+HOLD 1
+accl=73.011589
+slew 46.506853
+HOLD 1
+accl=95.379426
+slew 65.582738
+HOLD 1
+accl=114.263089
+slew 88.435356
+HOLD 1
+accl=121.565567
+slew 112.748469
+HOLD 1
+accl=109.247865
+slew 134.598042
+HOLD 1
+accl=73.858876
+slew 149.369817
+HOLD 1
+accl=20.316822
+slew 153.433182
+HOLD 1
+decl=38.547836
+slew 145.723614
+HOLD 1
+decl=87.434716
+slew 128.236671
+HOLD 1
+decl=115.618672
+slew 105.112937
+HOLD 1
+decl=121.039451
+slew 80.905047
+HOLD 1
+decl=109.125595
+slew 59.079928
+HOLD 1
+decl=88.361263
+slew 41.407675
+HOLD 1
+decl=66.167458
+slew 28.174184
+HOLD 1
+decl=46.906958
+slew 18.792792
+HOLD 1
+decl=32.102957
+slew 12.372201
+HOLD 1
+decl=21.546671
+slew 8.062866
+HOLD 1
+decl=14.345631
+slew 5.193740
+HOLD 1
+decl=9.544423
+slew 3.284856
+HOLD 1
+decl=6.370358
+slew 2.010784
+HOLD 1
+decl=4.271727
+slew 1.156439
+HOLD 1
+decl=2.878007
+slew 0.580837
+HOLD 1
+decl=1.946968
+slew 0.191444
+HOLD 1
+slew 0.191444
+slew 0.19144
+end
+pgm
+sstp
+DECL = 50
+ACCL = 1000
+slew 8.3333
+progname
+DECL = 50
+ACCL = 1000
+slew 6.6667
+DECL = 50
+ACCL = 1000
+slew 1.6667
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+sstp
+pgm 1
+lbl progname
+accl=1000.000000
+accl=1.493293
+slew 0.298659
+HOLD 1
+accl=2.202255
+slew 0.739110
+HOLD 1
+accl=3.259312
+slew 1.390972
+HOLD 1
+accl=4.844679
+slew 2.359908
+HOLD 1
+accl=7.235857
+slew 3.807079
+HOLD 1
+accl=10.854844
+slew 5.978048
+HOLD 1
+accl=16.320801
+slew 9.242208
+HOLD 1
+accl=24.474964
+slew 14.137201
+HOLD 1
+accl=36.293939
+slew 21.395989
+HOLD 1
+accl=52.542731
+slew 31.904535
+HOLD 1
+accl=73.011589
+slew 46.506853
+HOLD 1
+accl=95.379426
+slew 65.582738
+HOLD 1
+accl=114.263089
+slew 88.435356
+HOLD 1
+accl=121.565567
+slew 112.748469
+HOLD 1
+accl=109.247865
+slew 134.598042
+HOLD 1
+accl=73.858876
+slew 149.369817
+HOLD 1
+accl=20.316822
+slew 153.433182
+HOLD 1
+decl=38.547836
+slew 145.723614
+HOLD 1
+decl=87.434716
+slew 128.236671
+HOLD 1
+decl=115.618672
+slew 105.112937
+HOLD 1
+decl=121.039451
+slew 80.905047
+HOLD 1
+decl=109.125595
+slew 59.079928
+HOLD 1
+decl=88.361263
+slew 41.407675
+HOLD 1
+decl=66.167458
+slew 28.174184
+HOLD 1
+decl=46.906958
+slew 18.792792
+HOLD 1
+decl=32.102957
+slew 12.372201
+HOLD 1
+decl=21.546671
+slew 8.062866
+HOLD 1
+decl=14.345631
+slew 5.193740
+HOLD 1
+decl=9.544423
+slew 3.284856
+HOLD 1
+decl=6.370358
+slew 2.010784
+HOLD 1
+decl=4.271727
+slew 1.156439
+HOLD 1
+decl=2.878007
+slew 0.580837
+HOLD 1
+decl=1.946968
+slew 0.191444
+HOLD 1
+slew 0.191444
+slew 0.19144
+end
+pgm
+progname
+DECL = 50
+ACCL = 1000
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+pgm 1
+lbl progname
+accl=1000.000000
+accl=2.538719
+slew 0.507744
+HOLD 1
+accl=4.318732
+slew 1.371490
+HOLD 1
+accl=7.436094
+slew 2.858709
+HOLD 1
+accl=13.008275
+slew 5.460364
+HOLD 1
+accl=23.162068
+slew 10.092778
+HOLD 1
+accl=41.825219
+slew 18.457822
+HOLD 1
+accl=75.604888
+slew 33.578799
+HOLD 1
+accl=133.532585
+slew 60.285316
+HOLD 1
+accl=222.794016
+slew 104.844120
+HOLD 1
+accl=337.500259
+slew 172.344171
+HOLD 1
+accl=444.053910
+slew 261.154953
+HOLD 1
+accl=479.447387
+slew 357.044431
+HOLD 1
+accl=382.763461
+slew 433.597123
+HOLD 1
+accl=148.763971
+slew 463.349917
+HOLD 1
+decl=145.045533
+slew 434.340811
+HOLD 1
+decl=380.498583
+slew 358.241094
+HOLD 1
+decl=479.129866
+slew 262.415121
+HOLD 1
+decl=445.136877
+slew 173.387745
+HOLD 1
+decl=339.063092
+slew 105.575127
+HOLD 1
+decl=224.173076
+slew 60.740512
+HOLD 1
+decl=134.493782
+slew 33.841756
+HOLD 1
+decl=76.188113
+slew 18.604133
+HOLD 1
+decl=42.153066
+slew 10.173520
+HOLD 1
+decl=23.340776
+slew 5.505364
+HOLD 1
+decl=13.105697
+slew 2.884225
+HOLD 1
+decl=7.490076
+slew 1.386210
+HOLD 1
+decl=4.349279
+slew 0.516354
+HOLD 1
+decl=2.556335
+slew 0.005087
+HOLD 1
+slew 0.005087
+slew 0.0050871
+end
+pgm
+DECL = 50
+ACCL = 1000
+slew 4.1667
+sstp
+progname
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+slew 166.6667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+sstp
+DECL = 50
+ACCL = 1000
+slew 8.3333
+progname
+pgm 1
+lbl demo
+accl=1000.000000
+accl=0.520942
+slew 4.570613
+HOLD 1
+accl=0.607002
+slew 4.631313
+HOLD 1
+accl=0.707550
+slew 4.702068
+HOLD 1
+accl=0.825107
+slew 4.784579
+HOLD 1
+accl=0.962647
+slew 4.880844
+HOLD 1
+accl=1.123691
+slew 4.993213
+HOLD 1
+accl=1.312399
+slew 5.124453
+HOLD 1
+accl=1.533698
+slew 5.277823
+HOLD 1
+accl=1.793407
+slew 5.457163
+HOLD 1
+accl=2.098395
+slew 5.667003
+HOLD 1
+accl=2.456747
+slew 5.912678
+HOLD 1
+accl=2.877936
+slew 6.200471
+HOLD 1
+accl=3.373011
+slew 6.537772
+HOLD 1
+accl=3.954734
+slew 6.933246
+HOLD 1
+accl=4.637704
+slew 7.397016
+HOLD 1
+accl=5.438368
+slew 7.940853
+HOLD 1
+accl=6.374905
+slew 8.578344
+HOLD 1
+accl=7.466881
+slew 9.325032
+HOLD 1
+accl=8.734605
+slew 10.198492
+HOLD 1
+accl=10.198070
+slew 11.218299
+HOLD 1
+accl=11.875373
+slew 12.405836
+HOLD 1
+accl=13.780521
+slew 13.783889
+HOLD 1
+accl=15.920558
+slew 15.375944
+HOLD 1
+accl=18.292031
+slew 17.205147
+HOLD 1
+accl=20.876897
+slew 19.292837
+HOLD 1
+accl=23.638168
+slew 21.656654
+HOLD 1
+accl=26.515705
+slew 24.308224
+HOLD 1
+accl=29.422810
+slew 27.250505
+HOLD 1
+accl=32.249938
+slew 30.475499
+HOLD 1
+accl=34.836389
+slew 33.959138
+HOLD 1
+accl=37.034205
+slew 37.662559
+HOLD 1
+accl=38.653561
+slew 41.527915
+HOLD 1
+accl=39.506392
+slew 45.478554
+HOLD 1
+accl=39.414944
+slew 49.420048
+HOLD 1
+accl=38.229336
+slew 53.242982
+HOLD 1
+accl=35.845804
+slew 56.827562
+HOLD 1
+accl=32.223318
+slew 60.049894
+HOLD 1
+accl=27.396080
+slew 62.789502
+HOLD 1
+accl=21.480265
+slew 64.937529
+HOLD 1
+accl=14.668169
+slew 66.404345
+HOLD 1
+accl=7.227390
+slew 67.127084
+HOLD 1
+decl=0.530521
+slew 67.074032
+HOLD 1
+decl=8.265138
+slew 66.247519
+HOLD 1
+decl=15.637449
+slew 64.683774
+HOLD 1
+decl=22.342623
+slew 62.449511
+HOLD 1
+decl=28.119812
+slew 59.637530
+HOLD 1
+decl=32.788205
+slew 56.358710
+HOLD 1
+decl=36.242478
+slew 52.734462
+HOLD 1
+decl=38.459176
+slew 48.888544
+HOLD 1
+decl=39.488712
+slew 44.939673
+HOLD 1
+decl=39.442158
+slew 40.995457
+HOLD 1
+decl=38.474262
+slew 37.148031
+HOLD 1
+decl=36.765173
+slew 33.471514
+HOLD 1
+decl=34.503120
+slew 30.021202
+HOLD 1
+decl=31.876419
+slew 26.833560
+HOLD 1
+decl=29.029714
+slew 23.930588
+HOLD 1
+decl=26.120507
+slew 21.318538
+HOLD 1
+decl=23.254304
+slew 18.993107
+HOLD 1
+decl=20.514040
+slew 16.941703
+HOLD 1
+decl=17.956482
+slew 15.146055
+HOLD 1
+decl=15.615786
+slew 13.584476
+HOLD 1
+decl=13.507756
+slew 12.233701
+HOLD 1
+decl=11.634189
+slew 11.070282
+HOLD 1
+decl=9.986902
+slew 10.071592
+HOLD 1
+decl=8.551176
+slew 9.216474
+HOLD 1
+decl=7.308542
+slew 8.485620
+HOLD 1
+decl=6.238886
+slew 7.861731
+HOLD 1
+decl=5.321946
+slew 7.329537
+HOLD 1
+decl=4.538316
+slew 6.875705
+HOLD 1
+decl=3.870038
+slew 6.488701
+HOLD 1
+decl=3.300911
+slew 6.158610
+HOLD 1
+decl=2.816592
+slew 5.876951
+HOLD 1
+decl=2.404560
+slew 5.636495
+HOLD 1
+decl=2.053986
+slew 5.431097
+HOLD 1
+decl=1.755601
+slew 5.255536
+HOLD 1
+decl=1.501493
+slew 5.105387
+HOLD 1
+decl=1.284945
+slew 4.976893
+HOLD 1
+decl=1.100270
+slew 4.866866
+HOLD 1
+decl=0.942650
+slew 4.772601
+HOLD 1
+decl=0.808021
+slew 4.691798
+HOLD 1
+decl=0.692941
+slew 4.622504
+HOLD 1
+decl=0.594501
+slew 4.563054
+HOLD 1
+slew 4.563054
+slew 4.5631
+end
+pgm
+demo
+pgm 1
+lbl demo
+accl=1000.000000
+accl=0.520942
+slew 4.570613
+HOLD 1
+accl=0.607002
+slew 4.631313
+HOLD 1
+accl=0.707550
+slew 4.702068
+HOLD 1
+accl=0.825107
+slew 4.784579
+HOLD 1
+accl=0.962647
+slew 4.880844
+HOLD 1
+accl=1.123691
+slew 4.993213
+HOLD 1
+accl=1.312399
+slew 5.124453
+HOLD 1
+accl=1.533698
+slew 5.277823
+HOLD 1
+accl=1.793407
+slew 5.457163
+HOLD 1
+accl=2.098395
+slew 5.667003
+HOLD 1
+accl=2.456747
+slew 5.912678
+HOLD 1
+accl=2.877936
+slew 6.200471
+HOLD 1
+accl=3.373011
+slew 6.537772
+HOLD 1
+accl=3.954734
+slew 6.933246
+HOLD 1
+accl=4.637704
+slew 7.397016
+HOLD 1
+accl=5.438368
+slew 7.940853
+HOLD 1
+accl=6.374905
+slew 8.578344
+HOLD 1
+accl=7.466881
+slew 9.325032
+HOLD 1
+accl=8.734605
+slew 10.198492
+HOLD 1
+accl=10.198070
+slew 11.218299
+HOLD 1
+accl=11.875373
+slew 12.405836
+HOLD 1
+accl=13.780521
+slew 13.783889
+HOLD 1
+accl=15.920558
+slew 15.375944
+HOLD 1
+accl=18.292031
+slew 17.205147
+HOLD 1
+accl=20.876897
+slew 19.292837
+HOLD 1
+accl=23.638168
+slew 21.656654
+HOLD 1
+accl=26.515705
+slew 24.308224
+HOLD 1
+accl=29.422810
+slew 27.250505
+HOLD 1
+accl=32.249938
+slew 30.475499
+HOLD 1
+accl=34.836389
+slew 33.959138
+HOLD 1
+accl=37.034205
+slew 37.662559
+HOLD 1
+accl=38.653561
+slew 41.527915
+HOLD 1
+accl=39.506392
+slew 45.478554
+HOLD 1
+accl=39.414944
+slew 49.420048
+HOLD 1
+accl=38.229336
+slew 53.242982
+HOLD 1
+accl=35.845804
+slew 56.827562
+HOLD 1
+accl=32.223318
+slew 60.049894
+HOLD 1
+accl=27.396080
+slew 62.789502
+HOLD 1
+accl=21.480265
+slew 64.937529
+HOLD 1
+accl=14.668169
+slew 66.404345
+HOLD 1
+accl=7.227390
+slew 67.127084
+HOLD 1
+decl=0.530521
+slew 67.074032
+HOLD 1
+decl=8.265138
+slew 66.247519
+HOLD 1
+decl=15.637449
+slew 64.683774
+HOLD 1
+decl=22.342623
+slew 62.449511
+HOLD 1
+decl=28.119812
+slew 59.637530
+HOLD 1
+decl=32.788205
+slew 56.358710
+HOLD 1
+decl=36.242478
+slew 52.734462
+HOLD 1
+decl=38.459176
+slew 48.888544
+HOLD 1
+decl=39.488712
+slew 44.939673
+HOLD 1
+decl=39.442158
+slew 40.995457
+HOLD 1
+decl=38.474262
+slew 37.148031
+HOLD 1
+decl=36.765173
+slew 33.471514
+HOLD 1
+decl=34.503120
+slew 30.021202
+HOLD 1
+decl=31.876419
+slew 26.833560
+HOLD 1
+decl=29.029714
+slew 23.930588
+HOLD 1
+decl=26.120507
+slew 21.318538
+HOLD 1
+decl=23.254304
+slew 18.993107
+HOLD 1
+decl=20.514040
+slew 16.941703
+HOLD 1
+decl=17.956482
+slew 15.146055
+HOLD 1
+decl=15.615786
+slew 13.584476
+HOLD 1
+decl=13.507756
+slew 12.233701
+HOLD 1
+decl=11.634189
+slew 11.070282
+HOLD 1
+decl=9.986902
+slew 10.071592
+HOLD 1
+decl=8.551176
+slew 9.216474
+HOLD 1
+decl=7.308542
+slew 8.485620
+HOLD 1
+decl=6.238886
+slew 7.861731
+HOLD 1
+decl=5.321946
+slew 7.329537
+HOLD 1
+decl=4.538316
+slew 6.875705
+HOLD 1
+decl=3.870038
+slew 6.488701
+HOLD 1
+decl=3.300911
+slew 6.158610
+HOLD 1
+decl=2.816592
+slew 5.876951
+HOLD 1
+decl=2.404560
+slew 5.636495
+HOLD 1
+decl=2.053986
+slew 5.431097
+HOLD 1
+decl=1.755601
+slew 5.255536
+HOLD 1
+decl=1.501493
+slew 5.105387
+HOLD 1
+decl=1.284945
+slew 4.976893
+HOLD 1
+decl=1.100270
+slew 4.866866
+HOLD 1
+decl=0.942650
+slew 4.772601
+HOLD 1
+decl=0.808021
+slew 4.691798
+HOLD 1
+decl=0.692941
+slew 4.622504
+HOLD 1
+decl=0.594501
+slew 4.563054
+HOLD 1
+slew 4.563054
+slew 4.5631
+end
+pgm
+demo
+pgm 1
+lbl demo
+accl=1000.000000
+accl=0.726359
+slew 4.614187
+HOLD 1
+accl=0.883279
+slew 4.702515
+HOLD 1
+accl=1.075152
+slew 4.810030
+HOLD 1
+accl=1.310189
+slew 4.941049
+HOLD 1
+accl=1.598681
+slew 5.100917
+HOLD 1
+accl=1.953565
+slew 5.296274
+HOLD 1
+accl=2.391151
+slew 5.535389
+HOLD 1
+accl=2.932020
+slew 5.828591
+HOLD 1
+accl=3.602178
+slew 6.188809
+HOLD 1
+accl=4.434416
+slew 6.632250
+HOLD 1
+accl=5.469947
+slew 7.179245
+HOLD 1
+accl=6.760220
+slew 7.855267
+HOLD 1
+accl=8.368853
+slew 8.692152
+HOLD 1
+accl=10.373330
+slew 9.729485
+HOLD 1
+accl=12.866153
+slew 11.016100
+HOLD 1
+accl=15.954688
+slew 12.611569
+HOLD 1
+accl=19.758812
+slew 14.587451
+HOLD 1
+accl=24.405126
+slew 17.027963
+HOLD 1
+accl=30.016382
+slew 20.029601
+HOLD 1
+accl=36.694807
+slew 23.699082
+HOLD 1
+accl=44.498516
+slew 28.148934
+HOLD 1
+accl=53.411231
+slew 33.490057
+HOLD 1
+accl=63.307212
+slew 39.820778
+HOLD 1
+accl=73.915582
+slew 47.212336
+HOLD 1
+accl=84.790681
+slew 55.691404
+HOLD 1
+accl=95.297139
+slew 65.221118
+HOLD 1
+accl=104.619160
+slew 75.683034
+HOLD 1
+accl=111.816308
+slew 86.864665
+HOLD 1
+accl=115.824533
+slew 98.447118
+HOLD 1
+accl=115.734924
+slew 110.020611
+HOLD 1
+accl=110.745550
+slew 121.095166
+HOLD 1
+accl=100.396602
+slew 131.134826
+HOLD 1
+accl=84.664828
+slew 139.601309
+HOLD 1
+accl=64.034922
+slew 146.004801
+HOLD 1
+accl=39.478841
+slew 149.952685
+HOLD 1
+accl=12.432588
+slew 151.195944
+HOLD 1
+decl=15.418146
+slew 149.654129
+HOLD 1
+decl=42.271766
+slew 145.426953
+HOLD 1
+decl=66.469853
+slew 138.779967
+HOLD 1
+decl=86.608957
+slew 130.119072
+HOLD 1
+decl=101.774493
+slew 119.941622
+HOLD 1
+decl=111.536147
+slew 108.788008
+HOLD 1
+decl=115.968531
+slew 97.191154
+HOLD 1
+decl=115.572227
+slew 85.633932
+HOLD 1
+decl=111.176472
+slew 74.516284
+HOLD 1
+decl=103.699499
+slew 64.146335
+HOLD 1
+decl=94.205861
+slew 54.725748
+HOLD 1
+decl=83.623427
+slew 46.363406
+HOLD 1
+decl=72.749918
+slew 39.088414
+HOLD 1
+decl=62.200197
+slew 32.868394
+HOLD 1
+decl=52.400028
+slew 27.628391
+HOLD 1
+decl=43.603045
+slew 23.268087
+HOLD 1
+decl=35.921437
+slew 19.675943
+HOLD 1
+decl=29.361840
+slew 16.739759
+HOLD 1
+decl=23.860037
+slew 14.353756
+HOLD 1
+decl=19.310579
+slew 12.422698
+HOLD 1
+decl=15.589617
+slew 10.863736
+HOLD 1
+decl=12.570862
+slew 9.606650
+HOLD 1
+decl=10.135581
+slew 8.593092
+HOLD 1
+decl=8.177944
+slew 7.775297
+HOLD 1
+decl=6.607089
+slew 7.114588
+HOLD 1
+decl=5.347101
+slew 6.579878
+HOLD 1
+decl=4.335756
+slew 6.146303
+HOLD 1
+decl=3.522804
+slew 5.794022
+HOLD 1
+decl=2.868023
+slew 5.507220
+HOLD 1
+decl=2.339430
+slew 5.273277
+HOLD 1
+decl=1.911662
+slew 5.082111
+HOLD 1
+decl=1.564651
+slew 4.925646
+HOLD 1
+decl=1.282490
+slew 4.797397
+HOLD 1
+decl=1.052559
+slew 4.692141
+HOLD 1
+decl=0.864815
+slew 4.605659
+HOLD 1
+slew 4.605659
+slew 4.6057
+end
+pgm
+demo
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+hello
+print ver
+slew 8.3333
+sstp
+pgm 1
+lbl demo
+accl=1000.000000
+accl=0.369703
+slew 8.408644
+HOLD 1
+accl=0.397242
+slew 8.766162
+HOLD 1
+accl=0.423126
+slew 9.146975
+HOLD 1
+accl=0.451309
+slew 9.553153
+HOLD 1
+accl=0.482051
+slew 9.986999
+HOLD 1
+accl=0.515650
+slew 10.451084
+HOLD 1
+accl=0.552446
+slew 10.948285
+HOLD 1
+accl=0.585739
+slew 11.299728
+HOLD 1
+accl=0.614402
+slew 11.668369
+HOLD 1
+accl=0.644966
+slew 12.055349
+HOLD 1
+accl=0.677591
+slew 12.461903
+HOLD 1
+accl=0.712455
+slew 12.889376
+HOLD 1
+accl=0.749752
+slew 13.339228
+HOLD 1
+accl=0.789699
+slew 13.813047
+HOLD 1
+accl=0.832534
+slew 14.312568
+HOLD 1
+accl=0.878525
+slew 14.839683
+HOLD 1
+accl=0.927967
+slew 15.396463
+HOLD 1
+accl=0.981189
+slew 15.985176
+HOLD 1
+accl=1.038561
+slew 16.608313
+HOLD 1
+accl=1.100494
+slew 17.268609
+HOLD 1
+accl=1.150045
+slew 17.613622
+HOLD 1
+accl=1.184857
+slew 17.969080
+HOLD 1
+accl=1.221090
+slew 18.335407
+HOLD 1
+accl=1.258815
+slew 18.713051
+HOLD 1
+accl=1.298110
+slew 19.102484
+HOLD 1
+accl=1.339057
+slew 19.504201
+HOLD 1
+accl=1.381746
+slew 19.918725
+HOLD 1
+accl=1.426268
+slew 20.346605
+HOLD 1
+accl=1.472723
+slew 20.788422
+HOLD 1
+accl=1.521219
+slew 21.244788
+HOLD 1
+accl=1.571867
+slew 21.716348
+HOLD 1
+accl=1.624789
+slew 22.203784
+HOLD 1
+accl=1.680113
+slew 22.707818
+HOLD 1
+accl=1.737978
+slew 23.229212
+HOLD 1
+accl=1.798531
+slew 23.768771
+HOLD 1
+accl=1.861930
+slew 24.327350
+HOLD 1
+accl=1.928344
+slew 24.905853
+HOLD 1
+accl=1.997955
+slew 25.505239
+HOLD 1
+accl=2.070957
+slew 26.126526
+HOLD 1
+accl=2.147559
+slew 26.770794
+HOLD 1
+accl=2.227986
+slew 27.439190
+HOLD 1
+accl=2.312480
+slew 28.132934
+HOLD 1
+accl=2.401301
+slew 28.853324
+HOLD 1
+accl=2.494730
+slew 29.601743
+HOLD 1
+accl=2.593069
+slew 30.379664
+HOLD 1
+accl=2.696646
+slew 31.188658
+HOLD 1
+accl=2.805813
+slew 32.030402
+HOLD 1
+accl=2.920953
+slew 32.906688
+HOLD 1
+accl=3.042481
+slew 33.819432
+HOLD 1
+accl=3.170844
+slew 34.770685
+HOLD 1
+accl=3.306532
+slew 35.762645
+HOLD 1
+accl=3.450073
+slew 36.797667
+HOLD 1
+accl=3.602045
+slew 37.878280
+HOLD 1
+accl=3.763074
+slew 39.007202
+HOLD 1
+accl=3.933848
+slew 40.187357
+HOLD 1
+accl=4.115113
+slew 41.421891
+HOLD 1
+accl=4.307688
+slew 42.714197
+HOLD 1
+accl=4.512469
+slew 44.067938
+HOLD 1
+accl=4.730439
+slew 45.487069
+HOLD 1
+accl=4.962677
+slew 46.975873
+HOLD 1
+accl=5.210369
+slew 48.538983
+HOLD 1
+slew 48.538983
+slew 48.539
+end
+pgm
+demo
+slew 25
+slew 25
+sstp
+sstp
+sstp
+sstp
+sstp
+hello
+print ver
+slew 8.3333
+sstp
+DECL = 50
+ACCL = 1000
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 8.3333
+sstp
+sstp
+sstp
+slew 50
+hello
+print ver
+slew 8.3333
+slew 50
+ print ver
+slew 50
+slew 1.6667
+slew 
+slew 8.3333
+sstp
+DECL = 50
+ACCL = 1000
+slew 8.3333
+hello
+print ver
+slew 8.3333
+slew 4.1667
+slew 1.6667
+sstp
+hello
+print ver
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 8.3333
+slew 16.6667
+slew 50
+slew 83.3333
+slew 133.3333
+DECL = 50
+ACCL = 1000
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 8.3333
+slew 133.3333
+DECL = 50
+ACCL = 1000
+ACCL=1000
+DECL=1000
+slew 1.6667
+DECL = 50
+ACCL = 1000
+slew 1.6667
+DECL = 50
+ACCL = 1000
+slew 8.3333
+DECL = 50
+ACCL = 1000
+slew 4.1667
+DECL = 50
+ACCL = 1000
+slew 4.1667
+pgm 1
+lbl demo
+accl=1000.000000
+accl=0.726359
+slew 4.614187
+HOLD 1
+accl=0.883279
+slew 4.702515
+HOLD 1
+accl=1.075152
+slew 4.810030
+HOLD 1
+accl=1.310189
+slew 4.941049
+HOLD 1
+accl=1.598681
+slew 5.100917
+HOLD 1
+accl=1.953565
+slew 5.296274
+HOLD 1
+accl=2.391151
+slew 5.535389
+HOLD 1
+accl=2.932020
+slew 5.828591
+HOLD 1
+accl=3.602178
+slew 6.188809
+HOLD 1
+accl=4.434416
+slew 6.632250
+HOLD 1
+accl=5.469947
+slew 7.179245
+HOLD 1
+accl=6.760220
+slew 7.855267
+HOLD 1
+accl=8.368853
+slew 8.692152
+HOLD 1
+accl=10.373330
+slew 9.729485
+HOLD 1
+accl=12.866153
+slew 11.016100
+HOLD 1
+accl=15.954688
+slew 12.611569
+HOLD 1
+accl=19.758812
+slew 14.587451
+HOLD 1
+accl=24.405126
+slew 17.027963
+HOLD 1
+accl=30.016382
+slew 20.029601
+HOLD 1
+accl=36.694807
+slew 23.699082
+HOLD 1
+accl=44.498516
+slew 28.148934
+HOLD 1
+accl=53.411231
+slew 33.490057
+HOLD 1
+accl=63.307212
+slew 39.820778
+HOLD 1
+accl=73.915582
+slew 47.212336
+HOLD 1
+accl=84.790681
+slew 55.691404
+HOLD 1
+accl=95.297139
+slew 65.221118
+HOLD 1
+accl=104.619160
+slew 75.683034
+HOLD 1
+accl=111.816308
+slew 86.864665
+HOLD 1
+accl=115.824533
+slew 98.447118
+HOLD 1
+accl=115.734924
+slew 110.020611
+HOLD 1
+accl=110.745550
+slew 121.095166
+HOLD 1
+accl=100.396602
+slew 131.134826
+HOLD 1
+accl=84.664828
+slew 139.601309
+HOLD 1
+accl=64.034922
+slew 146.004801
+HOLD 1
+accl=39.478841
+slew 149.952685
+HOLD 1
+accl=12.432588
+slew 151.195944
+HOLD 1
+decl=15.418146
+slew 149.654129
+HOLD 1
+decl=42.271766
+slew 145.426953
+HOLD 1
+decl=66.469853
+slew 138.779967
+HOLD 1
+decl=86.608957
+slew 130.119072
+HOLD 1
+decl=101.774493
+slew 119.941622
+HOLD 1
+decl=111.536147
+slew 108.788008
+HOLD 1
+decl=115.968531
+slew 97.191154
+HOLD 1
+decl=115.572227
+slew 85.633932
+HOLD 1
+decl=111.176472
+slew 74.516284
+HOLD 1
+decl=103.699499
+slew 64.146335
+HOLD 1
+decl=94.205861
+slew 54.725748
+HOLD 1
+decl=83.623427
+slew 46.363406
+HOLD 1
+decl=72.749918
+slew 39.088414
+HOLD 1
+decl=62.200197
+slew 32.868394
+HOLD 1
+decl=52.400028
+slew 27.628391
+HOLD 1
+decl=43.603045
+slew 23.268087
+HOLD 1
+decl=35.921437
+slew 19.675943
+HOLD 1
+decl=29.361840
+slew 16.739759
+HOLD 1
+decl=23.860037
+slew 14.353756
+HOLD 1
+decl=19.310579
+slew 12.422698
+HOLD 1
+decl=15.589617
+slew 10.863736
+HOLD 1
+decl=12.570862
+slew 9.606650
+HOLD 1
+decl=10.135581
+slew 8.593092
+HOLD 1
+decl=8.177944
+slew 7.775297
+HOLD 1
+decl=6.607089
+slew 7.114588
+HOLD 1
+decl=5.347101
+slew 6.579878
+HOLD 1
+decl=4.335756
+slew 6.146303
+HOLD 1
+decl=3.522804
+slew 5.794022
+HOLD 1
+decl=2.868023
+slew 5.507220
+HOLD 1
+decl=2.339430
+slew 5.273277
+HOLD 1
+decl=1.911662
+slew 5.082111
+HOLD 1
+decl=1.564651
+slew 4.925646
+HOLD 1
+decl=1.282490
+slew 4.797397
+HOLD 1
+decl=1.052559
+slew 4.692141
+HOLD 1
+decl=0.864815
+slew 4.605659
+HOLD 1
+slew 4.605659
+slew 4.6057
+end
+pgm
+demo
+DECL = 50
+ACCL = 1000
+slew 4.1667
+slew 133.3333
+slew 416.6667
+slew 400
